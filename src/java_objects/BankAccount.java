@@ -1,5 +1,5 @@
 package java_objects;
-
+public class BankAccount {
     private String accountNumber;
     private String accountHolderName;
     private double balance;
@@ -94,4 +94,5 @@ package java_objects;
         account2.displayAccountDetails();
         account3.displayAccountDetails();
     }
+
 }
